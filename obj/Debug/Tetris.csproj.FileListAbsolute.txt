@@ -1,0 +1,21 @@
+C:\Users\lenovo\source\repos\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\lenovo\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\lenovo\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\lenovo\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\lenovo\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Илья Муромец\Desktop\папка для серой флешки\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Илья Муромец\Desktop\папка для серой флешки\Tetris\bin\Debug\Tetris.exe
+C:\Users\Илья Муромец\Desktop\папка для серой флешки\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Илья Муромец\Desktop\папка для серой флешки\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Илья Муромец\Desktop\папка для серой флешки\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Илья Муромец\Desktop\папка для серой флешки\Tetris\obj\Debug\Tetris.exe
+C:\Users\Илья Муромец\Desktop\папка для серой флешки\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Илья Муромец\Desktop\Университетские дела\папка для серой флешки\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Илья Муромец\Desktop\Университетские дела\папка для серой флешки\Tetris\bin\Debug\Tetris.exe
+C:\Users\Илья Муромец\Desktop\Университетские дела\папка для серой флешки\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Илья Муромец\Desktop\Университетские дела\папка для серой флешки\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Илья Муромец\Desktop\Университетские дела\папка для серой флешки\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Илья Муромец\Desktop\Университетские дела\папка для серой флешки\Tetris\obj\Debug\Tetris.exe
+C:\Users\Илья Муромец\Desktop\Университетские дела\папка для серой флешки\Tetris\obj\Debug\Tetris.pdb
